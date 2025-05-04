@@ -1,3 +1,5 @@
+### [👉👉👉♥♥点此进入♥观看入口👈👈👈](https://mrddrm.github.io/17c.html)
+<br></br><br></br><br></br>
 类设计：
 ColaVendingMachine 类封装了贩卖机的所有功能
 使用字典存储商品信息（名称、价格、库存）
